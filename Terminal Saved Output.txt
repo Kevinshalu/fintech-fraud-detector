@@ -1,0 +1,48 @@
+Last login: Sat Sep 20 20:28:44 on ttys000
+kevinshalu@10-17-114-149 ~ % nano requirements.txt
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  UW PICO 5.09                 File: requirements.txt                 Modified  
+
+# Dashboard
+streamlit==1.25.0
+altair==5.0.1
+
+# Utilities
+python-dotenv==1.0.0
+requests==2.31.0
+
+# Development
+jupyter==1.0.0
+pytest==7.4.0
+
+
+
+
+
+
+
+
+
+^G Get Help  ^O WriteOut  ^R Read File ^Y Prev Pg   ^K Cut Text  ^C Cur Pos   
+^X Exit      ^J Justify   ^W Where is  ^V Next Pg   ^U UnCut Text^T To Spell  
