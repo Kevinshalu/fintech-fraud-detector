@@ -19,7 +19,19 @@ Explainable AI fraud detection system that:
 - ✅ Provides explainable risk scoring
 
 ## Quick Start
+## Data Setup
 
+### Download Dataset
+This project uses the Credit Card Fraud Detection dataset from Kaggle:
+
+1. **Create Kaggle Account:** Sign up at [kaggle.com](https://www.kaggle.com) if you don't have one
+2. **Download Dataset:** Go to [Credit Card Fraud Detection](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
+3. **Extract Files:** 
+```bash
+   # Download creditcardfraud.zip to your downloads folder
+   # Extract to project data folder
+   unzip ~/Downloads/creditcardfraud.zip -d data/raw/
+   
 ### Installation
 ```bash
 git clone https://github.com/kevinshalu/fintech-fraud-detector.git
